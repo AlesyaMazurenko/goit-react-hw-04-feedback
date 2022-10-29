@@ -88,14 +88,10 @@ const Feedback = () => {
                                 bad={bad}
                                 totalV={total}
                                 positivePercentage={countPositivePercentage} 
-                                reset={resetStatistics}
-                                
-                    /> )   }
-                    
+                                reset={resetStatistics}    
+                    /> )   }               
                 </Section>    
         </div>        
         );
     }
-
-
 export default Feedback;
