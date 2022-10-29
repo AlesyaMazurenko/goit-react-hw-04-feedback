@@ -1,0 +1,32 @@
+
+ul {
+    list-style: none;
+}
+
+h2 {
+
+}
+
+.Feedback {
+    margin: 30px;
+}
+
+.Feedback__list {
+    list-style: none;
+    display: flex;
+}
+
+.Feedback__item {
+    margin-right: 20px;
+}
+
+.Feedback_btn {
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.Statistic__item {
+    font-size: 18px;
+    padding: 5px;
+}
